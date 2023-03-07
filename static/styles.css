@@ -9,6 +9,11 @@ body{
 	height: 100%;
 	margin: 0;
 	background-color: #ffffff;
+	background-image: url('imgimg.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 /* Website Title */
